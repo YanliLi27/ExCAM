@@ -38,3 +38,6 @@
 
 6. For the output, you can create a dir named output for collection.
 
+
+
+## Examples:
