@@ -43,7 +43,7 @@
 ## Examples:
 
 
-![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+![Example](/1.png "IM scaling, when your CAM targeting dogs")
 
 
 
