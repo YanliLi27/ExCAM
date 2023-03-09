@@ -15,7 +15,7 @@
 2. In main.py, examples were given for generating CAMs of MNIST, ILSVRC2012, Cats&Dogs, with the default paths.
 
 
-3. **Change paths and models, please see the generators/main_generator.py **
+3. **Change paths and models, please see the generators/main_generator.py**
 
     > (1) for path use: path_generator.py. 
     
