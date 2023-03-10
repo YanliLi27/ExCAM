@@ -1,6 +1,6 @@
 # ExCAM (Unfinished version)
 
-## The code for "Towards informative saliency maps for medical images" 
+## The code for "Towards more informative saliency maps for medical images" 
 
 > Thanks to https://github.com/frgfm/torch-cam and https://github.com/lucidrains/vit-pytorch for their functions.
 
